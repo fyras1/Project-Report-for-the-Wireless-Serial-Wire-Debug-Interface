@@ -1,6 +1,6 @@
 # Project-Report-for-the-Wireless-Serial-Wire-Debug-Interface
 
-End of studies project report intitled "Wireless Serial Wire Debug interface"\
+End of studies project report intitled "Wireless Serial Wire Debug interface"
 
 Hosting Company: ACTIA ES (----------@----)\
 Supervisor at ACTIA ES: Mehdi HANZOUTI (mehdi.hanzouti@actia-engineering.tn)\
